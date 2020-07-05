@@ -1,5 +1,5 @@
 ![PhoenixGo](images/logo.jpg?raw=true)
-
+[![Run on Repl.it](https://repl.it/badge/github/Tencent/PhoenixGo)](https://repl.it/github/Tencent/PhoenixGo)
 **PhoenixGo** is a Go AI program which implements the AlphaGo Zero paper
 "[Mastering the game of Go without human knowledge](https://deepmind.com/documents/119/agz_unformatted_nature.pdf)".
 It is also known as "BensonDarr" and "金毛测试" in [FoxGo](http://weiqi.qq.com/), 
